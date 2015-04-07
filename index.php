@@ -40,7 +40,7 @@
                         <div class="row">
                             <div class="col-md-12">
 
-                                <form action="http://smswmedia.createsend.com/t/d/s/iyithu/" method="post" id="form">
+                                <form action="https://smswmedia.createsend.com/t/d/s/iyithu/" method="post" id="form">
 
                                     <div class="form-group">
                                         <label for="fieldEmail"><?php echo $string['form']['email']; ?></label><br/>
