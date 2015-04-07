@@ -1,0 +1,42 @@
+@import "bootstrap"; // Import bootstrap
+@import "variables"; // Custom variables
+@import "forms"; // Custom forms
+@import "buttons";  // Custom buttons
+@import "modals";  // Custom Modals
+@import "mediaqueries"; // Custom Media Queries
+
+.app {
+  .main {
+    position: relative;
+    padding: 15px;
+  }
+
+  p {
+    margin: 0 0 20px;
+  }
+
+  p.description {
+    font-size: 17px;
+    color: lighten(@brand-secondary, 35%);
+  }
+
+  .form {
+    position: absolute;
+    top: 0;
+    margin: 380px 0;
+    width: 300px;
+
+    button {
+      margin-top: 15px;
+      margin-bottom: 15px;
+    }
+
+    label {
+      font-weight: normal;
+    }
+  }
+}
+
+.rtl {
+  direction: rtl;
+}

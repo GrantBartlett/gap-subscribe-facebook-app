@@ -1,0 +1,29 @@
+{
+  "en_GB": [
+    {
+      "form": {
+        "email": "Email address:",
+        "email-confirm": "Please confirm your email address:",
+        "email-placeholder": "Enter email address",
+        "submit": "Sign Up"
+      },
+
+      "validate" : {
+        "invalid": "Please enter a valid email address",
+        "confirm": "Please confirm your email address"
+      },
+
+      "footer": {
+        "privacy": {
+          "text": "Privacy Policy",
+          "url": "http://www.aldoshoes.com/ca/en/privacyPolicy"
+        }
+      }
+    }
+  ],
+  "ar_AR": [
+    {
+
+    }
+  ]
+}
