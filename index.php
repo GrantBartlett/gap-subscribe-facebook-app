@@ -12,7 +12,7 @@
 <body <?php if($locale->getLanguage() == 'ar_AR') echo 'class="rtl"';?> >
 
 <div class="container-fluid">
-    <section class="app" role="main">
+    <section class="app feature" role="main">
 
         <div class="row header">
             <div class="col-md-12">
