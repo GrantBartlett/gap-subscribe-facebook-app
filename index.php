@@ -11,11 +11,11 @@
 
 <body <?php if($locale->getLanguage() == 'ar_AR') echo 'class="rtl"';?> >
 
-<div class="container">
+<div class="container-fluid">
     <section class="app" role="main">
 
         <div class="row header">
-            <div class="col-md-8 col-md-offset-2">
+            <div class="col-md-12">
 
                 <div class="main">
 
