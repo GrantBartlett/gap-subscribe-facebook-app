@@ -20,13 +20,13 @@
 
 	                <div class="logo text-left">
 		                <p>
-	                        <img src="dist/images/logo.jpg" alt="GAP logo" width="91" height="91">
+	                        <img src="dist/images/logo.jpg" alt="GAP logo" width="91" height="91" class="img-responsive">
 						</p>
 	                </div>
 
 	                <div class="thanks text-center">
 		                <p>
-	                        <img src="dist/images/thanks.jpg" alt="thank you message" width="292" height="75">
+	                        <img src="dist/images/thanks.jpg" alt="thank you message" width="292" height="75" class="img-responsive">
 						</p>
 	                </div>
 
