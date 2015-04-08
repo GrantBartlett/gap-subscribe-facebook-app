@@ -17,7 +17,7 @@
             <div class="col-md-8 col-md-offset-2">
 
                 <div class="main">
-                    <img src="dist/images/main.jpg" alt="GAP feature">
+                    <img src="dist/images/main.jpg" alt="GAP feature" width="793" height="820">
 
                     <?php foreach($contentArr as $string): ?>
                     <section class="form">
