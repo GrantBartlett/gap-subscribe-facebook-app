@@ -13,11 +13,30 @@
 
 <div class="container">
     <section class="app" role="main">
+
+        <section class="feature-side hidden-xs hidden-sm">
+            <img src="dist/images/feature-side.jpg">
+        </section>
+
         <div class="row header">
             <div class="col-md-8 col-md-offset-2">
 
                 <div class="main">
-                    <img src="dist/images/main.jpg" alt="GAP feature" width="793" height="820">
+
+	                <section class="logo">
+		                <img src="dist/images/logo.jpg" width="91" height="91" alt="GAP logo" class="img-responsive">
+	                </section>
+
+	                <section class="intro">
+		                <img src="dist/images/headline.jpg" alt="Be in the know" width="395" height="45" class="img-responsive">
+		                <br>
+
+		                <p>
+			                You’ll be the first to hear about new arrivals, trends, and exclusive offers
+			                <br class="hidden-xs"> (including a special welcome deal!) when you sign up for Gap emails.
+		                </p>
+	                </section>
+
 
                     <?php foreach($contentArr as $string): ?>
                     <section class="form">
