@@ -33,7 +33,7 @@
 	                <?php foreach ( $contentArr as $string ): ?>
 		                <div class="block-center text-center">
 			                <p>
-				                <a href="https://www.facebook.com/GapSaudiArabia" class="btn btn-primary text-uppercase">
+				                <a href="https://www.facebook.com/GapSaudiArabia" class="btn btn-primary text-uppercase" target="_self">
 					                <?php echo $string['thanks']['return']; ?>
 					                <i class="fa fa-play"></i>
 				                </a>
