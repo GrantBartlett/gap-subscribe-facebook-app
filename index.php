@@ -14,10 +14,6 @@
 <div class="container">
     <section class="app" role="main">
 
-        <section class="feature-side hidden-xs hidden-sm">
-            <img src="dist/images/feature-side.jpg">
-        </section>
-
         <div class="row header">
             <div class="col-md-8 col-md-offset-2">
 
