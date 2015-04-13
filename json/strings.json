@@ -1,6 +1,10 @@
 {
   "en_GB": [
     {
+      "intro" : {
+        "text": "You’ll be the first to hear about new arrivals, trends, and exclusive offers <br class='hidden-xs'> when you sign up for Gap emails."
+      },
+
       "form": {
         "email": "Email address:",
         "email-confirm": "Please confirm your email address:",

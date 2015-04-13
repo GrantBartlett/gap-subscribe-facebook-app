@@ -23,18 +23,16 @@
 		                <img src="dist/images/logo.jpg" width="91" height="91" alt="GAP logo" class="img-responsive">
 	                </section>
 
+                    <?php foreach($contentArr as $string): ?>
 	                <section class="intro">
 		                <img src="dist/images/headline.jpg" alt="Be in the know" width="395" height="45" class="img-responsive">
 		                <br>
 
 		                <p>
-			                You’ll be the first to hear about new arrivals, trends, and exclusive offers
-			                <br class="hidden-xs"> (including a special welcome deal!) when you sign up for Gap emails.
+							<?php echo $string['intro']['text']; ?>
 		                </p>
 	                </section>
 
-
-                    <?php foreach($contentArr as $string): ?>
                     <section class="form">
                         <div class="row">
                             <div class="col-md-12">
