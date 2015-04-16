@@ -45,7 +45,7 @@ $contentArr = $contentArr[ $locale->getLanguage() ];
 
 										<div class="form-group">
 											<label for="confirmEmail"><?php echo $string['form']['email-confirm']; ?></label><br/>
-											<input id="confirmEmail" data-parsley-equalto="#fieldEmail" type="email" data-parsley-type="email" data-parsley-required-message="<?php echo $string['validate']['confirm']; ?>" class="form-control" placeholder="<?php echo $string['form']['email-confirm']; ?>" required>
+											<input id="confirmEmail" data-parsley-equalto="#fieldEmail" type="email" data-parsley-type="email" data-parsley-required-message="<?php echo $string['validate']['confirm']; ?>" class="form-control" placeholder="<?php echo $string['form']['email-confirm-placeholder']; ?>" required>
 										</div>
 
 										<div class="form-group">

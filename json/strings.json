@@ -7,17 +7,18 @@
 
       "form": {
         "email": "Email address:",
-        "email-confirm": "Please confirm your email address",
+        "email-confirm": "Please confirm your email address:",
+        "email-confirm-placeholder" : "Confirm your email address",
         "email-placeholder": "Enter email address",
-        "mobile": "Mobile",
+        "mobile": "Mobile number:",
         "mobile-placeholder": "Enter mobile number",
         "submit": "Sign Up"
       },
 
       "validate" : {
-        "invalid": "Please enter a valid email address",
-        "confirm": "Please confirm your email address",
-        "invalid-mobile" : "Please enter a valid mobile number"
+        "invalid": "Enter a valid email address",
+        "confirm": "Confirm your email address",
+        "invalid-mobile" : "Enter a valid mobile number"
       },
 
       "footer": {
