@@ -7,7 +7,7 @@
 
       "form": {
         "email": "Email address:",
-        "email-confirm": "Please confirm your email address:",
+        "email-confirm": "Please confirm your email address",
         "email-placeholder": "Enter email address",
         "mobile": "Telephone",
         "mobile-placeholder": "Enter telephone number",
