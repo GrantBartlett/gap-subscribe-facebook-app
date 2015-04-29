@@ -26,7 +26,7 @@ $contentArr = $contentArr[ $locale->getLanguage() ];
 						</section>
 
 						<section class="intro">
-							<img src="<?php echo $string['images']['intro']; ?>" alt="Be in the know" width="395" height="45" class="img-responsive">
+							<img src="<?php echo $string['images']['intro']; ?>" alt="Be in the know" class="img-responsive">
 							<br>
 
 							<p>
