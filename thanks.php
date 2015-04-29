@@ -19,9 +19,8 @@
 
 	                <div class="block-center text-center">
 		                <p>
-			                <a href="https://www.facebook.com/GapSaudiArabia" class="btn btn-primary text-uppercase" target="_blank">
+			                <a href="https://www.facebook.com/GapSaudiArabia" class="btn btn-primary text-uppercase submit" target="_blank">
 				                <?php echo $string['thanks']['return']; ?>
-				                <i class="fa fa-play"></i>
 			                </a>
 		                </p>
 	                </div>
