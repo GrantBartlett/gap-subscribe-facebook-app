@@ -8,6 +8,12 @@
     background-repeat: no-repeat;
     background-position: 115% 0;
   }
+
+  .rtl .feature {
+    background: url(../../dist/images/feature-side-ar.jpg);
+    background-repeat: no-repeat;
+    background-position: -20% 0;
+  }
 }
 
 /* Medium devices (desktops, 992px and up) */
@@ -15,11 +21,17 @@
   .feature {
       background-position: 110% 0;
   }
+  .rtl .feature {
+    background-position: -10% 0;
+  }
 }
 
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: @screen-lg-min) {
   .feature {
       background-position: 100% 0;
+  }
+  .rtl .feature {
+    background-position: 0 0;
   }
 }

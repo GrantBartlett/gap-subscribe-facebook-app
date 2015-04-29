@@ -48,9 +48,28 @@
     label {
       font-weight: normal;
     }
+
+    .submit:after {
+      font-family: FontAwesome;
+      content: "\f04b";
+      width: 20px;
+      height: 20px;
+      padding-left: 10px;
+    }
   }
 }
 
 .rtl {
   direction: rtl;
+
+  .submit:after {
+    display:none;
+  }
+  .submit:before {
+    font-family: FontAwesome;
+    content: "\f053";
+    width: 20px;
+    height: 20px;
+    padding-right: 10px;
+  }
 }

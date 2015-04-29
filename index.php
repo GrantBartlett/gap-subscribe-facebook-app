@@ -25,7 +25,7 @@ $contentArr = $contentArr[ $locale->getLanguage() ];
 
 					<?php foreach ( $contentArr as $string ): ?>
 						<section class="intro">
-							<img src="dist/images/headline.jpg" alt="Be in the know" width="395" height="45" class="img-responsive">
+							<img src="<?php echo $string['images']['intro']; ?>" alt="Be in the know" width="395" height="45" class="img-responsive">
 							<br>
 
 							<p>
@@ -53,9 +53,7 @@ $contentArr = $contentArr[ $locale->getLanguage() ];
 											<input id="fieldjilrdu" name="cm-f-jilrdu" type="text" data-parsley-type="number" data-parsley-required-message="<?php echo $string['validate']['invalid-mobile']; ?>" class="form-control" placeholder="<?php echo $string['form']['mobile-placeholder']; ?>" required>
 										</div>
 										<p>
-											<button type="submit" class="btn btn-primary text-uppercase"><?php echo $string['form']['submit']; ?>
-												<i class="fa fa-play"></i>
-											</button>
+											<button type="submit" class="btn btn-primary text-uppercase submit"><?php echo $string['form']['submit']; ?></button>
 										</p>
 									</form>
 
