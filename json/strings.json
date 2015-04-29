@@ -31,8 +31,8 @@
         "return": "Return to Facebook"
       },
       "images": {
-        "intro" : "dist/images/headline.jpg",
-        "thanks" : "dist/images/thanks.jpg"
+        "intro" : "dist/images/headline.png",
+        "thanks" : "dist/images/thanks.png"
       }
     }
   ],
@@ -68,8 +68,8 @@
         "return": "ارجع الى صفحة الفيسبوك"
       },
       "images": {
-        "intro" : "dist/images/headline-ar.jpg",
-        "thanks" : "dist/images/thanks-ar.jpg"
+        "intro" : "dist/images/headline-ar.png",
+        "thanks" : "dist/images/thanks-ar.png"
       }
     }
   ]
