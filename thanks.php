@@ -1,16 +1,3 @@
-<?php
-    require_once('_include/Language.php');
-    require_once('_include/Strings.php');
-    $locale = new Language();
-    $strings = new Strings();
-    $contentArr = $strings->getStrings();
-    $contentArr = $contentArr[$locale->getLanguage()];
-?>
-
-<?php include_once('_include/header.php'); ?>
-
-<body <?php if($locale->getLanguage() == 'ar_AR') echo 'class="rtl"';?> >
-
 <div class="container">
     <section class="app" role="main">
         <div class="row header">
@@ -47,5 +34,3 @@
         </div>
     </section>
 </div>
-
-<?php include_once('_include/footer.php'); ?>
