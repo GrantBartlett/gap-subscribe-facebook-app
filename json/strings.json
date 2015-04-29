@@ -29,12 +29,48 @@
       },
       "thanks": {
         "return": "Return to Facebook"
+      },
+      "images": {
+        "intro" : "dist/images/headline.jpg",
+        "thanks" : "dist/images/thanks.jpg"
       }
     }
   ],
   "ar_AR": [
     {
+      "intro" : {
+        "text": "عند الاشتراك بالبريد الإلكتروني ستكون أول من يعلم عن مجموعة جاب الجديدة، عن آخر صيحات الموضة، والعروض الحصرية. "
+      },
 
+      "form": {
+        "email": "عنوان البريد الاكتروني",
+        "email-confirm": "أكّد عنوان بريدك الإلكتروني",
+        "email-confirm-placeholder" : "أكّد عنوان بريدك الإلكتروني",
+        "email-placeholder": "عنوان البريد الاكتروني",
+        "mobile": "رقم الهاتف الجوال",
+        "mobile-placeholder": "رقم الهاتف الجوال",
+        "submit": "سجّل"
+      },
+
+      "validate" : {
+        "invalid": "Enter a valid email address",
+        "confirm": "Confirm your email address",
+        "invalid-mobile" : "Enter a valid mobile number"
+      },
+
+      "footer": {
+        "privacy": {
+          "text": "Privacy Policy",
+          "url": "#"
+        }
+      },
+      "thanks": {
+        "return": "ارجع الى صفحة الفيسبوك"
+      },
+      "images": {
+        "intro" : "dist/images/headline-ar.jpg",
+        "thanks" : "dist/images/thanks-ar.jpg"
+      }
     }
   ]
 }
