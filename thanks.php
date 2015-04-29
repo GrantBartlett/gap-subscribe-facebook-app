@@ -25,7 +25,6 @@
 		                </p>
 	                </div>
 	                <?php endforeach; ?>
-
                 </div>
 
             </div>
