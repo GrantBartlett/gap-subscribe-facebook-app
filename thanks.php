@@ -13,7 +13,7 @@
 
 	                <div class="thanks text-center">
 		                <p>
-	                        <img src="<?php echo $string['images']['thanks']; ?>" alt="thank you message" class="img-responsive">
+	                        <img src="<?php echo $string['images']['thanks']; ?>" alt="thank you message" style="max-width: 100%">
 						</p>
 	                </div>
 
