@@ -53,9 +53,9 @@
       },
 
       "validate" : {
-        "invalid": "Enter a valid email address",
-        "confirm": "Confirm your email address",
-        "invalid-mobile" : "Enter a valid mobile number"
+        "invalid": "سجل عنوان البريد الإلكتروني",
+        "confirm": "أكّد عنوان بريدك الإلكتروني",
+        "invalid-mobile" : "سجل رقم الهاتف الجوال"
       },
 
       "footer": {
