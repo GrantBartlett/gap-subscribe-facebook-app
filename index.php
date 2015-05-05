@@ -50,8 +50,8 @@ $contentArr = $contentArr[ $locale->getLanguage() ];
 										</div>
 
 										<div class="form-group">
-											<label for="fieldjilrdu"><?php echo $string['form']['mobile']; ?></label><br/>
-											<input id="fieldjilrdu" name="cm-f-jilrdu" type="text" data-parsley-type="number" data-parsley-required-message="<?php echo $string['validate']['invalid-mobile']; ?>" class="form-control" placeholder="<?php echo $string['form']['mobile-placeholder']; ?>" required>
+											<label for="fieldjiuhdt"><?php echo $string['form']['mobile']; ?></label><br/>
+											<input id="fieldjiuhdt" name="cm-f-jiuhdt" type="text" data-parsley-type="number" data-parsley-required-message="<?php echo $string['validate']['invalid-mobile']; ?>" class="form-control" placeholder="<?php echo $string['form']['mobile-placeholder']; ?>" required>
 										</div>
 										<p>
 											<button type="submit" class="btn btn-primary text-uppercase submit"><?php echo $string['form']['submit']; ?></button>
