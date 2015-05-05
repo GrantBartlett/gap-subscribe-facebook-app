@@ -6,3 +6,4 @@ dist/js/*.js
 
 dist/css/*.css
 !dist/css/*.min.css
+*.psd
